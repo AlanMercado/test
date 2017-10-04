@@ -2,6 +2,7 @@
 from lettuce import step, world
 from Calculadora import Calculadora
 
+
 @step(u'cuando realizo la operación')
 def cuando_realizo_la_operacion(step):
     pass
